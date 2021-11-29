@@ -5,14 +5,14 @@
 	"user_register": true,
 	"anti_delete" : true,
 	"anticall": true,
-	"prefix": ".",
+	"prefix": "#",
 	"language":"ind",
-	"ownerNumber": "6282112080081",
-	"ownerNumberr": "6282112080081",
-	"cr": "@NekoKyun",
-	"ownername": "Hashiba Kyouka",
-	"botname":"NekoBotz",
+	"ownerNumber": "6281315371466",
+	"ownerNumberr": "6281315371466",
+	"cr": "@RizkyAdiputra",
+	"ownername": "Rizky Adiputra",
+	"botname":"Raphael Botz",
 	"thumb":"thumbnail_1.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「 NekoBotz 」\nCreated By @ZeeoneOfc"
+	"fake": " 「 RaphaelBotz 」\nCreated By @RizkyAdoputra"
 }
